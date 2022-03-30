@@ -51,7 +51,7 @@ WebDriver driver;
 	
 	@AfterClass
 	public void tearDown() throws InterruptedException {
-		Thread.sleep(5000);
+		Thread.sleep(2000);
 		driver.close();
 	}
 
