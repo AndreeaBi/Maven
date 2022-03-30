@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-25T21:41:56 EET" name="Default suite" finished-at="2022-03-25T21:42:02 EET" duration-ms="5384">
+  <suite started-at="2022-03-30T10:31:14 EEST" name="Default suite" finished-at="2022-03-30T10:31:26 EEST" duration-ms="12335">
     <groups>
     </groups>
-    <test started-at="2022-03-25T21:41:56 EET" name="Default test" finished-at="2022-03-25T21:42:02 EET" duration-ms="5384">
-      <class name="curs10.FirstScript">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:curs10.FirstScript@4de4b452]" started-at="2022-03-25T21:41:57 EET" name="setUp" finished-at="2022-03-25T21:42:02 EET" duration-ms="5027" status="PASS">
+    <test started-at="2022-03-30T10:31:14 EEST" name="Default test" finished-at="2022-03-30T10:31:26 EEST" duration-ms="12335">
+      <class name="curs11.HomeworkCurs11">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:curs11.HomeworkCurs11@4de4b452]" started-at="2022-03-30T10:31:14 EEST" name="setUp" finished-at="2022-03-30T10:31:20 EEST" duration-ms="5482" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="checkPageTitle()[pri:0, instance:curs10.FirstScript@4de4b452]" started-at="2022-03-25T21:42:02 EET" name="checkPageTitle" finished-at="2022-03-25T21:42:02 EET" duration-ms="18" status="PASS">
+        <test-method signature="Login()[pri:0, instance:curs11.HomeworkCurs11@4de4b452]" started-at="2022-03-30T10:31:20 EEST" name="Login" finished-at="2022-03-30T10:31:21 EEST" duration-ms="1634" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- checkPageTitle -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:curs10.FirstScript@4de4b452]" started-at="2022-03-25T21:42:02 EET" name="tearDown" finished-at="2022-03-25T21:42:02 EET" duration-ms="271" status="PASS">
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:curs11.HomeworkCurs11@4de4b452]" started-at="2022-03-30T10:31:21 EEST" name="tearDown" finished-at="2022-03-30T10:31:26 EEST" duration-ms="5145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- curs10.FirstScript -->
+      </class> <!-- curs11.HomeworkCurs11 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
